@@ -1,6 +1,4 @@
 # Web scraper to get answers to stack overflow questions from the terminal
-# Finance app that allows for calculating common scenarios - Interest, investment returns, mortgages, etc.
-# Media (TV Show, Movie, Video Game) Backlog tracker
 
 import sys
 import urllib3
